@@ -46,4 +46,21 @@
 * **The Action:** Demonstrates Teo's milestone transition into fully standalone engineering, capturing him successfully writing and testing a clean motor actuation script by himself.
 * **Video Link:** [Click to view teo-age6-first-solo-wedo-2025.mp4](./teo-age6-first-solo-wedo-2025.mp4)
 
+## 📜 Verified Certificates & Academic Credentials
+
+### 🎮 Microsoft Minecraft Hour of Code Certification (3-Part Series - 03/2026)
+* **The Validation Body:** Microsoft Education Global Network
+* **Core Principles Verified:** Foundational paradigms of computer science, including linear sequence execution, algorithmic efficiency, conditional branching logic, and syntactic debugging parameters.
+* **The Academic Weight:** This three-part credential series verifies Teo's capacity to translate abstract logic into functional command paths within a dynamic 3D simulation matrix. It serves as platform-validated proof of his early computational thinking and systemic software navigation skills.
+* **Credential Registries:**
+  * [View Microsoft Minecraft Hour of Code Certificate - 03-2026 (Part 1)](./microsoft-minecraft-hour-of-code-certificate-11-2025-part1.png)
+  * [View Microsoft Minecraft Hour of Code Certificate - 03-2026 (Part 2)](./microsoft-minecraft-hour-of-code-certificate-01-2026-part2.png)
+  * [View Microsoft Minecraft Hour of Code Certificate - 03-2026 (Part 3)](./microsoft-minecraft-hour-of-code-certificate-03-2026-part3.png)
+
+### 🤖 Corfu Robotics Academy: Core Program Certification (Academic Year 2025-2026)
+* **The Validation Body:** Corfu Robotiki (Κέρκυρα Ρομποτική) / STEM Greece 
+* **Core Principles Verified:** Structural mechanical engineering, rotational velocity mechanics, gear train load distributions, physical sensor troubleshooting, and cohesive team-based project design.
+* **The Academic Weight:** Documents the successful completion of a rigorous, year-long laboratory curriculum. Under the direct leadership of Mr. Spiros, Kiria Dora, and Kiria Nina, Teo mastered the physical manipulation of robotics hardware, translating block-based code loops into immediate real-world motion arrays.
+* **Credential Registry:**
+  * [View Official Academy Completion Certificate](./teo-corfu-robotics-completion-2026.png)
 
